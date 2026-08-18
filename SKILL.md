@@ -3,7 +3,9 @@ name: stm32-bluetooth-agri-control
 description: Design, implement, and review STM32-to-Windows Bluetooth serial communication for agricultural monitoring and control systems. Use when Codex needs to build or modify STM32 firmware, Windows Python pyserial integration, DATA/CMD/ACK/ERR text protocols, local LLM-assisted control pipelines, dual safety validation, relay/PWM command handling, reconnect/heartbeat behavior, or offline fallback rules for pumps, lights, fans, switches, and greenhouse sensors.
 ---
 
-# STM32 Bluetooth Agri Control
+# STM32 蓝牙农业监测与控制
+
+面向农业监测与控制场景的 STM32 蓝牙串口通信技能。
 
 ## Overview
 

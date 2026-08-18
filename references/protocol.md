@@ -1,4 +1,6 @@
-# Bluetooth Serial Protocol Reference
+# 蓝牙农业控制串口协议参考
+
+Bluetooth Serial Protocol Reference
 
 Use this reference when designing or reviewing STM32-to-Windows Bluetooth SPP communication for the agricultural control project.
 

@@ -1,4 +1,4 @@
 interface:
-  display_name: "STM32 Bluetooth Agri Control"
-  short_description: "Design STM32 Bluetooth serial links for agri-control projects."
+  display_name: "STM32 蓝牙农业监测与控制"
+  short_description: "设计 STM32 与农业控制程序之间的蓝牙串口通信。"
   default_prompt: "Use this skill to design, implement, or review STM32 Bluetooth serial communication, Windows Python integration, command safety checks, ACK/ERR handling, and offline fallback rules for an agricultural control system."

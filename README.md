@@ -1,8 +1,12 @@
-# STM32 Bluetooth Agri Control
+# STM32 蓝牙农业监测与控制
+
+**STM32 Bluetooth Agricultural Monitoring and Control**
 
 [简体中文](README.zh-CN.md)
 
-A Codex skill for designing, implementing, and reviewing safe Bluetooth serial communication between STM32 devices and Windows-based agricultural monitoring and control applications.
+面向 STM32 与 Windows 农业监测控制程序的安全蓝牙串口通信设计、实现与审查技能包。
+
+This Codex skill designs, implements, and reviews safe Bluetooth serial communication between STM32 devices and Windows-based agricultural monitoring and control applications.
 
 The skill favors a practical architecture: STM32 performs sensing, actuator control, and local safety fallback, while a Windows Python application handles data processing, storage, optional local-LLM decisions, validation, and command tracking.
 

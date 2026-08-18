@@ -1,4 +1,4 @@
-# STM32 蓝牙农业控制
+# STM32 蓝牙农业监测与控制
 
 [English](README.md)
 
